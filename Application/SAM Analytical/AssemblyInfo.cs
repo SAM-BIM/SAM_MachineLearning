@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: LGPL-3.0-or-later
+// Copyright (c) 2020u{2013}2026 Michal Dengusiak & Jakub Ziolkowski and contributors
+
 using System.Windows;
 
 [assembly: ThemeInfo(
